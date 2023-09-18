@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kaltag1925/react-tic-tac-toe-tutorial/static/css/main.2cb9a270.css",
-    "main.js": "/Kaltag1925/react-tic-tac-toe-tutorial/static/js/main.87542e72.js",
-    "index.html": "/Kaltag1925/react-tic-tac-toe-tutorial/index.html",
-    "main.2cb9a270.css.map": "/Kaltag1925/react-tic-tac-toe-tutorial/static/css/main.2cb9a270.css.map",
-    "main.87542e72.js.map": "/Kaltag1925/react-tic-tac-toe-tutorial/static/js/main.87542e72.js.map"
+    "main.css": "/react-tic-tac-toe-tutorial/static/css/main.2cb9a270.css",
+    "main.js": "/react-tic-tac-toe-tutorial/static/js/main.87542e72.js",
+    "index.html": "/react-tic-tac-toe-tutorial/index.html",
+    "main.2cb9a270.css.map": "/react-tic-tac-toe-tutorial/static/css/main.2cb9a270.css.map",
+    "main.87542e72.js.map": "/react-tic-tac-toe-tutorial/static/js/main.87542e72.js.map"
   },
   "entrypoints": [
     "static/css/main.2cb9a270.css",
